@@ -1,0 +1,6 @@
+row1 = input()
+row2 = input()
+print(int(row1)*int(row2[2]))
+print(int(row1)*int(row2[1]))
+print(int(row1)*int(row2[0]))
+print(int(row1)*int(row2))
